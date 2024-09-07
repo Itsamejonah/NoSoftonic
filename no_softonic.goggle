@@ -1,0 +1,5 @@
+! name: No Softonic
+! description: Removes softonic, along with tootrals
+! public: true
+
+$discard,site=en.softonic.com
