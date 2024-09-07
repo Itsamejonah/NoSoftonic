@@ -1,0 +1,2 @@
+# NoSoftonic
+Removes softonic.
